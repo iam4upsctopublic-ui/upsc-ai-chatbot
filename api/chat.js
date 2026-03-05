@@ -19,7 +19,7 @@ Capabilities:
 try {
 
 const response = await fetch(
-"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=YOUR_API_KEY",
+"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDSlFdNevnpenp5oKQtGtBUikQMJMd-lGA",
 {
 method:"POST",
 headers:{ "Content-Type":"application/json" },
